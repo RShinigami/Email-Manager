@@ -1,6 +1,6 @@
-package com.example;
+package com.example.controller;
 
-
+import com.example.model.*;
 import java.util.List;
 
 public class EmailController {

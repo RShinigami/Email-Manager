@@ -1,4 +1,4 @@
-package com.example;
+package com.example.model;
 
 public class User {
 	
@@ -9,7 +9,7 @@ public class User {
     private String phoneNumber;
     
     public User(String firstName, String lastName, String username, String password, String phoneNumber) {
-        this.firstName = firstName;
+    	this.firstName = firstName;
         this.lastName = lastName;
         this.username = username;
         this.password = password;

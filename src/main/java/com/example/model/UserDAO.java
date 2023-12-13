@@ -1,6 +1,6 @@
-// UserDAO.java
-package com.example;
+package com.example.model;
 
+import com.example.*;
 import java.io.Serializable;
 import java.sql.*;
 
